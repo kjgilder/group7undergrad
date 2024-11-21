@@ -1,0 +1,1 @@
+To optimize a vehicle's trajectory to a stoplight based on its distance to the stoplight, and when the stoplight will turn from red to green.
